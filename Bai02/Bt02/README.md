@@ -73,7 +73,7 @@ LearningApp là ứng dụng học tập được xây dựng bằng React Nativ
 
 **Hình ảnh giao diện:**
 
-![BottomMenu](images/BottomMenu.png)
+<img width="332" height="101" alt="image" src="https://github.com/user-attachments/assets/de86579d-cc7a-4109-8c7c-1117a656a4dc" />
 
 ## 4. Giao diện trang Home hoàn chỉnh
 
@@ -87,7 +87,7 @@ Trang Home bao gồm:
 
 **Hình ảnh giao diện hoàn chỉnh:**
 
-<img width="332" height="101" alt="image" src="https://github.com/user-attachments/assets/de86579d-cc7a-4109-8c7c-1117a656a4dc" />
+
 
 
 ## 5. Cấu trúc các file trong dự án
