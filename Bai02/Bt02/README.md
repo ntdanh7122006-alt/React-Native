@@ -45,7 +45,8 @@ LearningApp là ứng dụng học tập được xây dựng bằng React Nativ
 
 **Hình ảnh giao diện:**
 
-![StatCard](images/StatCard.png)
+<img width="320" height="194" alt="image" src="https://github.com/user-attachments/assets/f39a3040-1dc7-4861-814e-5081d297fa3c" />
+
 
 ### 3.3. Component CourseCard
 
@@ -58,7 +59,8 @@ LearningApp là ứng dụng học tập được xây dựng bằng React Nativ
 
 **Hình ảnh giao diện:**
 
-![CourseCard](images/CourseCard.png)
+<img width="333" height="510" alt="image" src="https://github.com/user-attachments/assets/67324b08-2b28-44b2-9249-a019620f5d56" />
+
 
 ### 3.4. Component BottomMenu
 
@@ -85,7 +87,8 @@ Trang Home bao gồm:
 
 **Hình ảnh giao diện hoàn chỉnh:**
 
-![LearningApp Home](images/Home.png)
+<img width="332" height="101" alt="image" src="https://github.com/user-attachments/assets/de86579d-cc7a-4109-8c7c-1117a656a4dc" />
+
 
 ## 5. Cấu trúc các file trong dự án
 
